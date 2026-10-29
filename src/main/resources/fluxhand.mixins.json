@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.fluxhand.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "HeldItemRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
